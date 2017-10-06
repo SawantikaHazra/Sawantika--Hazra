@@ -2873,6 +2873,12 @@
  {
 padding-left:33%;
  }
+ .pic1
+   {
+      padding-left:35%;
+       width:75%;
+       height:75%;
+   }
 	.features {
 		display: -moz-flex;
 		display: -webkit-flex;
